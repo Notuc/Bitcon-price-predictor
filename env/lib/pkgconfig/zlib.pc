@@ -1,0 +1,13 @@
+prefix=/Users/nathangale/Documents/GitHub/Bitcon-price-predictor/env
+exec_prefix=/Users/nathangale/Documents/GitHub/Bitcon-price-predictor/env
+libdir=/Users/nathangale/Documents/GitHub/Bitcon-price-predictor/env/lib
+sharedlibdir=/Users/nathangale/Documents/GitHub/Bitcon-price-predictor/env/lib
+includedir=/Users/nathangale/Documents/GitHub/Bitcon-price-predictor/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

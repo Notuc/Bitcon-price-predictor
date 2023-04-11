@@ -1,0 +1,39 @@
+{
+  "build": "py311hff9dab5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas * openblas",
+    "libcxx >=14.0.6",
+    "libopenblas >=0.3.20,<1.0a0",
+    "numpy-base 1.23.5 py311h7183fb7_0",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/nathangale/miniconda3/pkgs/numpy-1.23.5-py311hff9dab5_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.23.5-py311hff9dab5_0.conda",
+  "legacy_bz2_md5": "9c381ce2c781077f4afb5ec04e0ec0ee",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/nathangale/miniconda3/pkgs/numpy-1.23.5-py311hff9dab5_0",
+    "type": 1
+  },
+  "md5": "0470780ec29c9f3a376357ccf54e2c7d",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/nathangale/miniconda3/pkgs/numpy-1.23.5-py311hff9dab5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy",
+  "sha256": "726a437eacd46789370ec8665c1445d5fdc077264a4437e4914fc626392cea19",
+  "size": 10678,
+  "subdir": "osx-64",
+  "timestamp": 1678321789375,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.23.5-py311hff9dab5_0.conda",
+  "version": "1.23.5"
+}
