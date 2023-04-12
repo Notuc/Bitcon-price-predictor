@@ -1,4 +1,4 @@
-# Bitcon-price-predictorSure, I can help you write a project description for a machine learning project focused on predicting Bitcoin (BTC) price movements.
+# Bitcon-price-predictor
 
 Project Title: Bitcoin Price Prediction using Machine Learning
 
