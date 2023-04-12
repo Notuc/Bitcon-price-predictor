@@ -1,6 +1,6 @@
 # Bitcon-price-predictor
 
-Project Title: Bitcoin Price Prediction using Machine Learning
+Check out the notebook for the source code
 
 
 Bitcoin is a decentralized digital currency that has gained significant popularity in recent years. As with any other financial instrument, Bitcoin's price is determined by market supply and demand dynamics, which are influenced by various factors such as news, sentiment, regulations, adoption, and more. Predicting Bitcoin's price accurately is challenging due to its high volatility and non-linear behavior, making it an exciting area for machine learning applications.
